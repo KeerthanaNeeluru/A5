@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A5\A5\bin\Debug\A5.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A5\A5\bin\Debug\A5.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A5\A5\bin\Debug\A5.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A5\A5\obj\Debug\A5.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A5\A5\obj\Debug\A5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A5\A5\obj\Debug\A5.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A5\A5\obj\Debug\A5.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A5\A5\obj\Debug\A5.pdb
